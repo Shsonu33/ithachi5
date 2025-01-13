@@ -60,7 +60,7 @@ async def start(update: Update, context: CallbackContext):
         return
 
     message = (
-        "*🔥 Welcome to Sharma DDOS world 🔥*\n\n"
+        "*🔥 Welcome to ARSALAAN DDOS world 🔥*\n\n"
         "*Use /attack <ip> <port> <duration>*\n"
         "*Let the war begin! ⚔️💥*"
     )
